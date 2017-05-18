@@ -1,0 +1,14 @@
+/*
+Theme Name: Christine's Amazing Theme
+Description: Child theme based on twenty sixteen
+Author: Analytical Engine Interactive Inc.
+Version: 1.0
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
+
+
+body {
+	background-color: pink;
+}
