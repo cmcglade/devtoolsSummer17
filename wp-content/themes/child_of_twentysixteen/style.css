@@ -7,8 +7,29 @@ Template: twentysixteen
 */
 
 @import url('../twentysixteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+/*font-family: 'Poiret One', cursive;*/
 
 
 body {
+	background-color: pink;
+}
+
+.entry-title {
+    font-family: 'Poiret One', cursive;
+    color: green;
+}
+
+.entry-title a:hover, .entry-title a:focus {
+    color: pink;
+}
+
+.entry-title a {
+    font-family: 'Poiret One', cursive;
+    color: green;
+}
+
+#masthead {
 	background-color: pink;
 }
