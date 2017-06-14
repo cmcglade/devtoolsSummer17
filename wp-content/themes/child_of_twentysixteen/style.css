@@ -1,6 +1,6 @@
 /*
 Theme Name: Christine's Amazing Theme
-Description: Child theme based on twenty sixteen
+Description: This theme custom designed for client X
 Author: Analytical Engine Interactive Inc.
 Version: 1.0
 Template: twentysixteen
@@ -43,4 +43,10 @@ body {
 /*making the widget line lighter */
 .widget {
     border-top: 1px solid #1a1a1a;
+}
+
+@media screen and (min-width: 56.875em) {
+    .content-area {
+            width: 100%;
+        }
 }
