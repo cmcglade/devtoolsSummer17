@@ -50,3 +50,14 @@ body {
             width: 100%;
         }
 }
+
+.sticky-post:before {
+    content: "Important Information";
+    display: block;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    color: #ffffff;
+    background-color: #696969;
+    font-size: 150%;
+    padding: 1 em;
+}
